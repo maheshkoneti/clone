@@ -6,4 +6,5 @@ echo "shifting by one"
 shift 1
 echo "no the positional parameters after shift: ${*}"
 echo "the program name is: $0"
+#new line
 #end
